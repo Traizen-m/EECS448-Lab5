@@ -1,0 +1,32 @@
+body 
+{ 
+    background-color: rgb(90, 165, 226); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat; 
+} 
+
+p
+{
+    background-color: white; color: black;
+    font-family: "Copperplate", fantasy;
+    font-size: 1.5vw;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: none;
+}
+
+p.spacer
+{
+    border-style: none;
+    background-color: none;   
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+div{
+    justify-content: center;
+}
